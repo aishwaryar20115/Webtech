@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 # To GET NODE MODULEs
 write 
 "npm create-react-app my-app-name"
-  enter the given app.js in the app.js file 
+  enter the given app.js and app.css in the respective app.js and app.css files 
 
 ## Available Scripts
 
